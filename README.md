@@ -1,6 +1,6 @@
 # Substitution Cipher
 
-Android aplikacija za kriptiranje i dekriptiranje teksta pomoću jednostavne supstitucijske šifre.
+Android aplikacija za kriptiranje i dekriptiranje teksta pomoću jednostavne supstitucijske šifre. 
 
 ### Instalacija
 [APK][ln1]
